@@ -1,0 +1,54 @@
+[
+  {
+    "name": "TEST PRODUCT",
+    "price": 100,
+    "stock": 48,
+    "sku": "",
+    "category": "Finished Goods",
+    "unit": "PCS",
+    "userId": "mmg3o9vsxtypu",
+    "isDeleted": false,
+    "_id": "mmg3o9wglbpgp",
+    "createdAt": "2026-03-07T09:07:31.744Z",
+    "updatedAt": "2026-03-07T09:07:31.763Z"
+  },
+  {
+    "name": "TEST PRODUCT",
+    "price": 100,
+    "stock": 48,
+    "sku": "",
+    "category": "Finished Goods",
+    "unit": "PCS",
+    "userId": "mmg3sh3pwea1e",
+    "isDeleted": false,
+    "_id": "mmg3sh40d3i1f",
+    "createdAt": "2026-03-07T09:10:47.712Z",
+    "updatedAt": "2026-03-07T09:10:47.727Z"
+  },
+  {
+    "name": "TEST PRODUCT",
+    "price": 100,
+    "stock": 48,
+    "sku": "",
+    "category": "Finished Goods",
+    "unit": "PCS",
+    "userId": "mmg3v4yvqp71h",
+    "isDeleted": false,
+    "_id": "mmg3v4zc9b6y9",
+    "createdAt": "2026-03-07T09:12:51.960Z",
+    "updatedAt": "2026-03-07T09:12:51.977Z"
+  },
+  {
+    "name": "DRASING",
+    "price": 2000,
+    "stock": 27,
+    "sku": "",
+    "category": "Finished Goods",
+    "unit": "Units",
+    "userId": "mmfu0ms5o6lhswtnq2",
+    "isDeleted": false,
+    "_id": "mmg3xi49zv5ux",
+    "createdAt": "2026-03-07T09:14:42.297Z",
+    "updatedAt": "2026-03-07T09:41:10.725Z"
+  }
+]

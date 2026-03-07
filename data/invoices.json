@@ -1,0 +1,112 @@
+[
+  {
+    "invoiceNo": "INV-1772874451757",
+    "date": "2023-10-27",
+    "customerName": "TEST CUSTOMER",
+    "customerId": "mmg3o9wl269xa",
+    "items": [
+      {
+        "productName": "TEST PRODUCT",
+        "qty": 2,
+        "rate": 100,
+        "amount": 200
+      }
+    ],
+    "grandTotal": 200,
+    "amountPaid": 200,
+    "balanceDue": 0,
+    "userId": "mmg3o9vsxtypu",
+    "isDeleted": false,
+    "createdAt": "2026-03-07T09:07:31.761Z",
+    "_id": "mmg3o9wxo100e"
+  },
+  {
+    "invoiceNo": "INV-1772874647724",
+    "date": "2023-10-27",
+    "customerName": "TEST CUSTOMER",
+    "customerId": "mmg3sh44ji8g4",
+    "items": [
+      {
+        "productName": "TEST PRODUCT",
+        "qty": 2,
+        "rate": 100,
+        "amount": 200
+      }
+    ],
+    "grandTotal": 200,
+    "amountPaid": 200,
+    "balanceDue": 0,
+    "userId": "mmg3sh3pwea1e",
+    "isDeleted": false,
+    "createdAt": "2026-03-07T09:10:47.725Z",
+    "_id": "mmg3sh4d2rc8g"
+  },
+  {
+    "invoiceNo": "INV-1772874771972",
+    "date": "2023-10-27",
+    "customerName": "TEST CUSTOMER",
+    "customerId": "mmg3v4zhqch2g",
+    "items": [
+      {
+        "productName": "TEST PRODUCT",
+        "qty": 2,
+        "rate": 100,
+        "amount": 200
+      }
+    ],
+    "grandTotal": 200,
+    "amountPaid": 200,
+    "balanceDue": 0,
+    "userId": "mmg3v4yvqp71h",
+    "isDeleted": false,
+    "createdAt": "2026-03-07T09:12:51.975Z",
+    "_id": "mmg3v4zs5rsb6"
+  },
+  {
+    "customerId": "mmg3ykjkkyrip",
+    "customerName": "ABDULLAH",
+    "customerAddress": "HAJI NAGAR ANSARI MOHALLA CHAS BOKARO",
+    "customerGSTIN": "22AAAAA0000A1Z5",
+    "customerStateCode": "827013",
+    "placeOfSupply": "HAJI NAGAR ANSARI MOHALLA CHAS BOKARO",
+    "shippingName": "",
+    "shippingAddress": "ANSARI MOHALLA, HAZI NAGAR, CHAS near Akash hospital",
+    "shippingGSTIN": "",
+    "shippingStateCode": "",
+    "invoiceNo": "TAX-001",
+    "date": "2026-03-07",
+    "reverseCharge": "No",
+    "items": [
+      {
+        "id": 1,
+        "productName": "DRASING",
+        "hsn": "",
+        "qty": 21,
+        "unit": "Units",
+        "rate": 2000,
+        "amount": 42000,
+        "cgstRate": 0,
+        "cgstAmt": 0,
+        "sgstRate": 0,
+        "sgstAmt": 0,
+        "igstRate": 18,
+        "igstAmt": 7560,
+        "rowTotal": 49560
+      }
+    ],
+    "amountPaid": 0,
+    "type": "TAX",
+    "total": 42000,
+    "taxAmount": 7560,
+    "grandTotal": 49560,
+    "balanceDue": 49560,
+    "totalCGST": 0,
+    "totalSGST": 0,
+    "totalIGST": 7560,
+    "userId": "mmfu0ms5o6lhswtnq2",
+    "isDeleted": false,
+    "createdAt": "2026-03-07T09:16:15.915Z",
+    "_id": "mmg3zicrg4hyy",
+    "updatedAt": "2026-03-07T09:43:35.208Z"
+  }
+]

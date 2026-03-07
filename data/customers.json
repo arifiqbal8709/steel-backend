@@ -1,0 +1,49 @@
+[
+  {
+    "name": "TEST CUSTOMER",
+    "contact": "1234567890",
+    "address": "Test Address",
+    "phone": "1234567890",
+    "userId": "mmg3o9vsxtypu",
+    "isDeleted": false,
+    "previousDue": 0,
+    "_id": "mmg3o9wl269xa",
+    "createdAt": "2026-03-07T09:07:31.749Z"
+  },
+  {
+    "name": "TEST CUSTOMER",
+    "contact": "1234567890",
+    "address": "Test Address",
+    "phone": "1234567890",
+    "userId": "mmg3sh3pwea1e",
+    "isDeleted": false,
+    "previousDue": 0,
+    "_id": "mmg3sh44ji8g4",
+    "createdAt": "2026-03-07T09:10:47.716Z"
+  },
+  {
+    "name": "TEST CUSTOMER",
+    "contact": "1234567890",
+    "address": "Test Address",
+    "phone": "1234567890",
+    "userId": "mmg3v4yvqp71h",
+    "isDeleted": false,
+    "previousDue": 0,
+    "_id": "mmg3v4zhqch2g",
+    "createdAt": "2026-03-07T09:12:51.965Z"
+  },
+  {
+    "name": "ABDULLAH",
+    "contact": "9113124619",
+    "email": "246arifiqbal@gmail.com",
+    "gstNo": "22AAAAA0000A1Z5",
+    "address": "HAJI NAGAR ANSARI MOHALLA CHAS BOKARO",
+    "phone": "9113124619",
+    "userId": "mmfu0ms5o6lhswtnq2",
+    "isDeleted": false,
+    "previousDue": 49560,
+    "_id": "mmg3ykjkkyrip",
+    "createdAt": "2026-03-07T09:15:32.096Z",
+    "updatedAt": "2026-03-07T09:16:15.917Z"
+  }
+]
