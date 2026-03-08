@@ -73,5 +73,14 @@
     "password": "$2b$10$PchgeebQWatLQL5ikcneoeVt7JHEmSEXM7VSRWCEWMI3BmU34aTO6",
     "_id": "mmg3v4yvqp71h",
     "createdAt": "2026-03-07T09:12:51.943Z"
+  },
+  {
+    "_id": "demo_user_001",
+    "name": "Demo Admin",
+    "email": "admin@gmail.com",
+    "mobile": "1234567890",
+    "password": "$2b$10$4jpKqMUKs6nSHh/tyuEKou37eT57ITs3J9XolrU3VjEl0X0QNpDza",
+    "businessName": "Demo Vyapar",
+    "createdAt": "2026-03-08T05:39:15.130Z"
   }
 ]
